@@ -1,0 +1,128 @@
+
+#data-viz-47797 {
+    width: 95vw;
+    position:relative;
+    background-color: rgb(251, 252, 254);
+    border: 1px solid #e5e5e5;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.05)
+}
+
+.title-text {
+    font-family: Roboto, sans-serif;
+    font-size: 22px;
+    font-weight: 700;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.description-text {
+    font-family: Roboto, sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17px;
+}
+
+.source-text {
+    font-family: Roboto, sans-serif;
+    font-size: 11px;
+    font-weight: 400;
+    color: #888;
+    margin-top: 20px;
+    margin-bottom:20px;
+    /*
+    These adjustments are to undo CSS upstream on the WP Site,
+    but aren't necessary to make the viz work
+    */
+    line-height: 13px;
+}
+
+.tooltip-47797 {
+    font-family: Roboto, sans-serif;
+    opacity: 0;
+    position: absolute;
+    width: 300px;
+    height: 125px;
+    background-color: transparent;
+    /*display: flex;*/
+    display: table;
+    flex-direction: row;
+    align-items: center;
+    text-align: center;
+}
+
+.tooltip-genre-47797 {
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 22px;
+    text-transform: capitalize;
+    display: table-cell;
+    vertical-align: middle;
+    /*
+    These adjustments are to undo CSS upstream on the WP Site,
+    but aren't necessary to make the viz work
+    */
+    line-height: 25px;
+
+}
+
+.clicked-tooltip-47797 {
+    font-family: Roboto, sans-serif;
+    opacity: 0;
+    position: absolute;
+    width: 300px;
+    height: 400px;
+    background-color: rgba(256, 256, 256, 0.90);
+    border: 1px solid #e5e5e5;
+    border-radius: 3px;
+    padding-left: 20px;
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.1);
+}
+
+.clicked-tooltip-title-47797 {
+    text-transform: capitalize;
+    font-family: Roboto, sans-serif;
+    font-size: 22px;
+    font-weight: 700;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.artist-image-div-47797 img {
+    clip-path: circle();
+    width: 60px;
+    height: 60px;
+    object-fit: cover;
+    display: block;
+    margin-right: 10px;
+    /*
+    These adjustments are to undo CSS upstream on the WP Site,
+    but aren't necessary to make the viz work
+    */
+    padding-top: 0px;
+    padding-bottom: 0px;
+    max-width: none;
+}
+
+.artist-name-47797 {
+    font-size: 22px;
+    /*
+    These adjustments are to undo CSS upstream on the WP Site,
+    but aren't necessary to make the viz work
+    */
+    line-height: 25px;
+}
+
+.genre-nodes-47797:focus {
+    outline: none;
+    stroke: black;
+    stroke-width: 2px;
+}
+
+.genre-checkbox-div-47797 {
+    font-family: Roboto, sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17px;
+    padding-top: 10px;
+}
