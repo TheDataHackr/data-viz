@@ -1,13 +1,5 @@
 async function genreRelationshipGraph() {
 
-    // 1. Access data (Write Accessor functions)
-    // 2. Create chart dimensions
-    // 3. Draw canvas
-    // 4. Create scales
-    // 5. Draw data
-    // 6. Draw peripherals
-    // 7. Set up interactions
-
     const visID = "47797"
     const d3DivID = "data-viz-" + visID
     const titleTextID = "title-text-" + visID
@@ -29,13 +21,18 @@ async function genreRelationshipGraph() {
 
     let genreChecked = ""
 
-    // const smallDataFile = "./data/genre_relationships_final_1K.json"
-    // const largeDataFile = "./data/genre_relationships_final.json"
-    const smallDataFile = "/data-viz/pandora-to-spotify/data/genre_relationships_final_1K.json"
-    const largeDataFile = "/data-viz/pandora-to-spotify/data/genre_relationships_final.json"
+    const url = window.location.href
+    let smallDataFile = ""
+    let largeDataFile = ""
+    if (url.includes("localhost") || url.includes("127.0.0.1")) {
+        smallDataFile = "./data/genre_relationships_final_1K.json"
+        largeDataFile = "./data/genre_relationships_final.json"
+    } else {
+        smallDataFile = "/data-viz/pandora-to-spotify/data/genre_relationships_final_1K.json"
+        largeDataFile = "/data-viz/pandora-to-spotify/data/genre_relationships_final.json"
+    }
 
     let dataset = await d3.json(smallDataFile)
-    // const dataset = await d3.json("/data-viz/pandora-to-spotify/data/genre_relationships_final_1K.json")
 
     drawChart()
 
@@ -44,7 +41,7 @@ async function genreRelationshipGraph() {
         clearTimeout(timeoutFunc)
         timeoutFunc = setTimeout(function() {
             drawChart()
-        }, 200)
+        }, 500)
     }
 
     function drawChart () {
@@ -82,10 +79,12 @@ async function genreRelationshipGraph() {
         let description = ""
         if (genreChecked === "checked") {
             description = "Clustering all 5,762 genres based on how often a each genre shows up " +
-                "with other genres for over 300,000 randomly selected artists"
+                "with other genres for over 300,000 randomly selected artists. Hover to see all of " +
+                "the connected genres and click to get more details."
         } else {
             description = "Clustering the top 1,000 genres based on how often a each genre shows up " +
-                "with other genres for over 300,000 randomly selected artists"
+                "with other genres for over 300,000 randomly selected artists. Hover to see all of " +
+                "the connected genres and click to get more details."
         }
 
         const customHTML =
@@ -179,8 +178,8 @@ async function genreRelationshipGraph() {
             `<div id="${sourceTextID}" class="source-text">
                 <span>
                 This chart was built on top of data from the Spotify API. Click 
-                <a href="https://developer.spotify.com/documentation/web-api/reference/#/operations/get-an-artists-
-                related-artists" target="_blank">here</a> to see how.
+                <a href="https://developer.spotify.com/documentation/web-api/reference/#/operations/search"
+                target="_blank">here</a> to see how.
                 </span>
              </div>`
         const wrapper = d3.select(`#${d3DivID}`)
@@ -199,8 +198,6 @@ async function genreRelationshipGraph() {
         d3.selectAll(`#${titleTextID}, #${descriptionTextID}, #${sourceTextID}, #${genreCheckboxDivID}`)
             .style("margin-left", `${dimensions.margin.left}px`)
             .style("margin-right", `${dimensions.margin.right}px`)
-
-        const def = wrapper.append("defs")
 
         const chart = wrapper.append("g")
             .style("transform", `translate(${dimensions.margin.left}px, ${dimensions.margin.top}px)`)
@@ -263,7 +260,7 @@ async function genreRelationshipGraph() {
         const nodes = chart.selectAll(".genre-nodes-" + visID)
             .data(dataset.nodes).enter()
             .append("circle")
-            .attr("fill", d => colorScale(d.group))
+            .attr("fill", d => d.group === 0 ? "#000000": colorScale(d.group))
             .attr("cx", d => d.x)
             .attr("cy", d => d.y)
             .attr("r", d => d.radius)
