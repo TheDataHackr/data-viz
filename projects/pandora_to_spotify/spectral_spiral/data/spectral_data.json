@@ -1,0 +1,1624 @@
+[
+    {
+        "id": "3gd8FJtBJtkRxdfbTu19U2",
+        "order": 0,
+        "genres": [
+            "modern folk rock",
+            "stomp and holler",
+            "uk americana"
+        ],
+        "name": "Mumford & Sons",
+        "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2",
+        "followers": 6407029,
+        "popularity": 72,
+        "image_url": "https://i.scdn.co/image/ab6761610000f17887ac264d392a72af95ca9fdb",
+        "distance": 0.0
+    },
+    {
+        "id": "6VxCmtR7S3yz4vnzsJqhSV",
+        "order": 1,
+        "genres": [
+            "australian indie",
+            "australian pop",
+            "folk-pop",
+            "pop",
+            "pop rock"
+        ],
+        "name": "Sheppard",
+        "url": "https://open.spotify.com/artist/6VxCmtR7S3yz4vnzsJqhSV",
+        "followers": 277419,
+        "popularity": 62,
+        "image_url": "https://i.scdn.co/image/ab6761610000f1788bda4d7a1c3b8159f28f9d08",
+        "distance": 0.001209338662
+    },
+    {
+        "id": "0n94vC3S9c3mb2HyNAOcjg",
+        "order": 2,
+        "genres": [
+            "folk-pop",
+            "indie folk",
+            "seattle indie",
+            "stomp and holler"
+        ],
+        "name": "The Head And The Heart",
+        "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg",
+        "followers": 1020705,
+        "popularity": 64,
+        "image_url": "https://i.scdn.co/image/ab6761610000f178c1332a509f6d8382c6d8996a",
+        "distance": 0.001943514857
+    },
+    {
+        "id": "4C50EbCS11M0VbGyH3OfLt",
+        "order": 3,
+        "genres": [
+            "canadian indie",
+            "indie folk",
+            "indie pop",
+            "new americana",
+            "stomp and holler"
+        ],
+        "name": "Bahamas",
+        "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt",
+        "followers": 356630,
+        "popularity": 62,
+        "image_url": "https://i.scdn.co/image/ab6761610000f178155ae5b198382c81e570be01",
+        "distance": 0.002342331531
+    },
+    {
+        "id": "3Q9WLyqkHw04V6DDtvPWwH",
+        "order": 4,
+        "genres": [
+            "deep new americana",
+            "indie folk",
+            "indie pop",
+            "new americana",
+            "stomp and holler"
+        ],
+        "name": "The Wild Reeds",
+        "url": "https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH",
+        "followers": 57174,
+        "popularity": 43,
+        "image_url": "https://i.scdn.co/image/ab6761610000f178ec557320c73ea3d14775f91c",
+        "distance": 0.00235327219
+    },
+    {
+        "id": "7oRT0oC3vhUGQJCL6CYYzk",
+        "order": 5,
+        "genres": [
+            "canadian folk",
+            "canadian singer-songwriter",
+            "deep new americana",
+            "new americana"
+        ],
+        "name": "Cat Clyde",
+        "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk",
+        "followers": 42319,
+        "popularity": 43,
+        "image_url": "https://i.scdn.co/image/ab6761610000f178a8e3d3576810fbee27a1f5b4",
+        "distance": 0.00235327219
+    },
+    {
+        "id": "33szNKNcVX8x0jl8X7hxHL",
+        "order": 6,
+        "genres": [
+            "folk-pop",
+            "indie folk",
+            "stomp and holler"
+        ],
+        "name": "Good Old War",
+        "url": "https://open.spotify.com/artist/33szNKNcVX8x0jl8X7hxHL",
+        "followers": 64324,
+        "popularity": 45,
+        "image_url": "https://i.scdn.co/image/ab6761610000f1786b272963f88a3998109c463e",
+        "distance": 0.002492934014
+    },
+    {
+        "id": "3DkhgIw7lIyxekurpXNTrm",
+        "order": 7,
+        "genres": [
+            "boston folk",
+            "folk-pop",
+            "indie folk",
+            "new americana",
+            "new england americana",
+            "stomp and holler"
+        ],
+        "name": "Darlingside",
+        "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm",
+        "followers": 51073,
+        "popularity": 49,
+        "image_url": "https://i.scdn.co/image/ab6761610000f1784223bd9000e8f466f3a96bef",
+        "distance": 0.002589626421
+    },
+    {
+        "id": "6ltzsmQQbmdoHHbLZ4ZN25",
+        "order": 8,
+        "genres": [
+            "indie folk",
+            "stomp and holler"
+        ],
+        "name": "Lord Huron",
+        "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25",
+        "followers": 1164606,
+        "popularity": 73,
+        "image_url": "https://i.scdn.co/image/ab6761610000f1781d4e4e7e3c5d8fa494fc5f10",
+        "distance": 0.00264665317
+    },
+    {
+        "id": "7JFtD8KnbAADBBDleIMuH7",
+        "order": 9,
+        "genres": [
+            "deep new americana",
+            "indie folk",
+            "new americana",
+            "stomp and holler"
+        ],
+        "name": "The Lone Bellow",
+        "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7",
+        "followers": 89017,
+        "popularity": 49,
+        "image_url": "https://i.scdn.co/image/ab6761610000f1783b7068a764ba20dcf41fa3a4",
+        "distance": 0.002692564762
+    },
+    {
+        "id": "1fZpYWNWdL5Z3wrDtISFUH",
+        "order": 10,
+        "genres": [
+            "austin americana",
+            "austindie",
+            "deep new americana",
+            "indie folk",
+            "new americana",
+            "stomp and holler"
+        ],
+        "name": "Shakey Graves",
+        "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH",
+        "followers": 474894,
+        "popularity": 60,
+        "image_url": "https://i.scdn.co/image/ab6761610000f178e4368448c8f76d21de6a5c1d",
+        "distance": 0.002805366643
+    },
+    {
+        "id": "5Bcrb5qQMVTEbJ43fdIS4A",
+        "order": 11,
+        "genres": [
+            "deep new americana",
+            "new americana",
+            "north carolina roots",
+            "progressive bluegrass",
+            "stomp and holler"
+        ],
+        "name": "Mipso",
+        "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A",
+        "followers": 68884,
+        "popularity": 51,
+        "image_url": "https://i.scdn.co/image/ab6761610000f1787290fbb2a8559bda67305d09",
+        "distance": 0.002987084364
+    },
+    {
+        "id": "7ytgyYmtUPfxXHsXEvgObK",
+        "order": 12,
+        "genres": [
+            "deep new americana",
+            "indie folk",
+            "new americana",
+            "stomp and holler",
+            "western americana"
+        ],
+        "name": "John Craigie",
+        "url": "https://open.spotify.com/artist/7ytgyYmtUPfxXHsXEvgObK",
+        "followers": 47399,
+        "popularity": 49,
+        "image_url": "https://i.scdn.co/image/ab6761610000f1783e437cbac9cadfe146cec824",
+        "distance": 0.002991714726
+    },
+    {
+        "id": "7EGwUS3c5dXduO4sMyLWC5",
+        "order": 13,
+        "genres": [
+            "deep new americana",
+            "indie folk",
+            "modern folk rock",
+            "modern rock",
+            "new americana",
+            "rock",
+            "stomp and holler"
+        ],
+        "name": "Houndmouth",
+        "url": "https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5",
+        "followers": 264980,
+        "popularity": 58,
+        "image_url": "https://i.scdn.co/image/ab6761610000f178aaae2dad8de720ca5a38c83b",
+        "distance": 0.003014726024
+    },
+    {
+        "id": "37eqxl8DyLd5sQN54wYJbE",
+        "order": 14,
+        "genres": [
+            "alternative country",
+            "deep new americana",
+            "indie folk",
+            "indie rock",
+            "modern folk rock",
+            "new americana",
+            "north carolina indie",
+            "north carolina roots",
+            "roots rock",
+            "stomp and holler"
+        ],
+        "name": "Hiss Golden Messenger",
+        "url": "https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE",
+        "followers": 79685,
+        "popularity": 50,
+        "image_url": "https://i.scdn.co/image/ab6761610000f17809f20c5cfd20d70e440c7863",
+        "distance": 0.003050723849
+    },
+    {
+        "id": "5nM5pj6cEIkzCkwBJZibHK",
+        "order": 15,
+        "genres": [
+            "deep new americana",
+            "new americana",
+            "north carolina roots",
+            "stomp and holler"
+        ],
+        "name": "The Dead Tongues",
+        "url": "https://open.spotify.com/artist/5nM5pj6cEIkzCkwBJZibHK",
+        "followers": 36943,
+        "popularity": 45,
+        "image_url": "https://i.scdn.co/image/ab6761610000f17897a71b9f12eed1bcac87b814",
+        "distance": 0.003202316193
+    },
+    {
+        "id": "1xLMexpeeTKQ20SwGMaGSK",
+        "order": 16,
+        "genres": [
+            "austin americana",
+            "austindie",
+            "deep new americana",
+            "folk-pop",
+            "indie folk",
+            "indie pop",
+            "new americana",
+            "stomp and holler"
+        ],
+        "name": "Wild Child",
+        "url": "https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK",
+        "followers": 147397,
+        "popularity": 53,
+        "image_url": "https://i.scdn.co/image/ab6761610000f1784d4c9f66cfdd382224ce68f2",
+        "distance": 0.003298757342
+    },
+    {
+        "id": "5YENCIQVzziCFdoVWc26Bn",
+        "order": 17,
+        "genres": [
+            "deep new americana"
+        ],
+        "name": "The Wild Feathers",
+        "url": "https://open.spotify.com/artist/5YENCIQVzziCFdoVWc26Bn",
+        "followers": 35254,
+        "popularity": 38,
+        "image_url": "https://i.scdn.co/image/ab6761610000f178fbb3b4a960a6aff6db488306",
+        "distance": 0.00347922592
+    },
+    {
+        "id": "5PjekOABtfU2Kwo0AHVmci",
+        "order": 18,
+        "genres": [
+            "australian pop",
+            "australian talent show",
+            "dance pop"
+        ],
+        "name": "Guy Sebastian",
+        "url": "https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci",
+        "followers": 507147,
+        "popularity": 59,
+        "image_url": "https://i.scdn.co/image/ab6761610000f178f6a8a5914a92dc6bf9a4fea1",
+        "distance": 0.003608703368
+    },
+    {
+        "id": "2oX42qP5ineK3hrhBECLmj",
+        "order": 19,
+        "genres": [
+            "dance pop",
+            "neo mellow",
+            "pop",
+            "pop rap",
+            "pop rock",
+            "post-teen pop"
+        ],
+        "name": "Andy Grammer",
+        "url": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj",
+        "followers": 1113497,
+        "popularity": 70,
+        "image_url": "https://i.scdn.co/image/ab6761610000f178496050692471e28190f815f0",
+        "distance": 0.003608703368
+    },
+    {
+        "id": "6rHWAH6F4mr2AViSxMV673",
+        "order": 20,
+        "genres": [
+            "australian indigenous",
+            "australian pop",
+            "australian talent show",
+            "dance pop"
+        ],
+        "name": "Jessica Mauboy",
+        "url": "https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673",
+        "followers": 259234,
+        "popularity": 52,
+        "image_url": "https://i.scdn.co/image/ab6761610000f178cb265e70f845e54f3807629a",
+        "distance": 0.003608703368
+    },
+    {
+        "id": "2l35CQqtYRh3d8ZIiBep4v",
+        "order": 21,
+        "genres": [
+            "dance pop",
+            "pop",
+            "pop rap",
+            "pop rock",
+            "post-teen pop"
+        ],
+        "name": "MKTO",
+        "url": "https://open.spotify.com/artist/2l35CQqtYRh3d8ZIiBep4v",
+        "followers": 1011418,
+        "popularity": 66,
+        "image_url": "https://i.scdn.co/image/ab6761610000f178bc861f3d1ba68614d3a301b4",
+        "distance": 0.003608703368
+    },
+    {
+        "id": "6p5JxpTc7USNnBnLzctyd4",
+        "order": 22,
+        "genres": [
+            "folk-pop",
+            "neo mellow",
+            "pop rock"
+        ],
+        "name": "Phillip Phillips",
+        "url": "https://open.spotify.com/artist/6p5JxpTc7USNnBnLzctyd4",
+        "followers": 1026627,
+        "popularity": 62,
+        "image_url": "https://i.scdn.co/image/ab6761610000f1782ff4279e2084771e59a22387",
+        "distance": 0.003608703368
+    },
+    {
+        "id": "1rw8ZTLnDHd74TWDDukjVi",
+        "order": 23,
+        "genres": [
+            "australian pop"
+        ],
+        "name": "Conrad Sewell",
+        "url": "https://open.spotify.com/artist/1rw8ZTLnDHd74TWDDukjVi",
+        "followers": 108254,
+        "popularity": 61,
+        "image_url": "https://i.scdn.co/image/ab6761610000f178b82dab2866c1248c3434024f",
+        "distance": 0.003608703368
+    },
+    {
+        "id": "5UECxOkeFG2n9ESNADgASX",
+        "order": 24,
+        "genres": [],
+        "name": "BEN & TAN",
+        "url": "https://open.spotify.com/artist/5UECxOkeFG2n9ESNADgASX",
+        "followers": 4672,
+        "popularity": 47,
+        "image_url": "https://i.scdn.co/image/ab6761610000f17858d85a7c52a80c72fa586ec6",
+        "distance": 0.003608703368
+    },
+    {
+        "id": "25ou7Y6W7L1fcMoCZMbf86",
+        "order": 25,
+        "genres": [
+            "australian alternative rock",
+            "australian pop",
+            "australian rock",
+            "australian talent show",
+            "perth indie",
+            "pop rock"
+        ],
+        "name": "Birds Of Tokyo",
+        "url": "https://open.spotify.com/artist/25ou7Y6W7L1fcMoCZMbf86",
+        "followers": 222063,
+        "popularity": 53,
+        "image_url": "https://i.scdn.co/image/ab6761610000f17833566011bc26c22bb27d76d8",
+        "distance": 0.003608703368
+    },
+    {
+        "id": "7gRGh8w4G9zaFJSaIYp8HH",
+        "order": 26,
+        "genres": [
+            "asheville indie",
+            "deep new americana",
+            "folk-pop",
+            "indie folk",
+            "indie pop",
+            "new americana",
+            "north carolina roots",
+            "stomp and flutter",
+            "stomp and holler"
+        ],
+        "name": "River Whyless",
+        "url": "https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH",
+        "followers": 37117,
+        "popularity": 55,
+        "image_url": "https://i.scdn.co/image/ab6761610000f1787ac1c4db6901f98a6ba470e7",
+        "distance": 0.003713280221
+    },
+    {
+        "id": "0MASTEXfUt3bpiyGOoEaur",
+        "order": 27,
+        "genres": [
+            "deep new americana",
+            "modern blues rock",
+            "new americana",
+            "ok indie",
+            "roots rock",
+            "stomp and holler"
+        ],
+        "name": "Parker Millsap",
+        "url": "https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur",
+        "followers": 55977,
+        "popularity": 44,
+        "image_url": "https://i.scdn.co/image/ab6761610000f17876773b82e91f88a572d97d5c",
+        "distance": 0.003813356658
+    },
+    {
+        "id": "251UrhgNbMr15NLzQ2KyKq",
+        "order": 28,
+        "genres": [
+            "deep new americana",
+            "indie folk",
+            "new americana",
+            "stomp and holler"
+        ],
+        "name": "Rayland Baxter",
+        "url": "https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq",
+        "followers": 148137,
+        "popularity": 54,
+        "image_url": "https://i.scdn.co/image/ab6761610000f1783e4fddfb76e55084bdd1479c",
+        "distance": 0.003873436201
+    },
+    {
+        "id": "3oXddLOOjkoUuC2sX1RMdr",
+        "order": 29,
+        "genres": [
+            "folk",
+            "indie folk",
+            "new americana",
+            "progressive bluegrass"
+        ],
+        "name": "I'm With Her",
+        "url": "https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr",
+        "followers": 75413,
+        "popularity": 45,
+        "image_url": "https://i.scdn.co/image/ab6761610000f1786a83ce5df1d764664e6ff5b2",
+        "distance": 0.003974543118
+    },
+    {
+        "id": "6HyT9nfsNKEtu76UKQBD5g",
+        "order": 30,
+        "genres": [
+            "canadian folk",
+            "canadian singer-songwriter",
+            "deep new americana",
+            "indie folk",
+            "new americana"
+        ],
+        "name": "Abigail Lapell",
+        "url": "https://open.spotify.com/artist/6HyT9nfsNKEtu76UKQBD5g",
+        "followers": 9450,
+        "popularity": 48,
+        "image_url": "https://i.scdn.co/image/ab6761610000f178c708bb65e6f2498f3936d240",
+        "distance": 0.003974543118
+    },
+    {
+        "id": "4qKpLkR911SUlnd4HAtF79",
+        "order": 31,
+        "genres": [
+            "deep new americana",
+            "indie folk",
+            "new americana",
+            "stomp and holler"
+        ],
+        "name": "Nathaniel Rateliff",
+        "url": "https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79",
+        "followers": 194986,
+        "popularity": 58,
+        "image_url": "https://i.scdn.co/image/ab6761610000f178aa04b21c7e0d8b5c67c38e3a",
+        "distance": 0.004178377795
+    },
+    {
+        "id": "5sXaGoRLSpd7VeyZrLkKwt",
+        "order": 32,
+        "genres": [
+            "indie folk",
+            "pop folk",
+            "stomp and flutter",
+            "stomp and holler"
+        ],
+        "name": "Gregory Alan Isakov",
+        "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt",
+        "followers": 699138,
+        "popularity": 66,
+        "image_url": "https://i.scdn.co/image/ab6761610000f1784528d0f9bb51b241561a16f3",
+        "distance": 0.004235423237
+    },
+    {
+        "id": "1OVaGC0CDZaxjcPxclSNmp",
+        "order": 33,
+        "genres": [
+            "boston folk",
+            "folk-pop",
+            "indie folk",
+            "new americana",
+            "stomp and holler"
+        ],
+        "name": "Tall Heights",
+        "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp",
+        "followers": 76177,
+        "popularity": 50,
+        "image_url": "https://i.scdn.co/image/ab6761610000f1782f28b6d9e96fa016cc643e90",
+        "distance": 0.00452420004
+    },
+    {
+        "id": "37YxyxKbCL7as3bH2adwQE",
+        "order": 34,
+        "genres": [
+            "charlottesville indie",
+            "deep new americana",
+            "indie folk",
+            "indiecoustica",
+            "new americana",
+            "pop folk"
+        ],
+        "name": "Lowland Hum",
+        "url": "https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE",
+        "followers": 15969,
+        "popularity": 43,
+        "image_url": "https://i.scdn.co/image/ab6761610000f1789be6c205559931d4fd655f24",
+        "distance": 0.004889349752
+    },
+    {
+        "id": "4w1ZBtHF0HxrGqQdB7i1it",
+        "order": 35,
+        "genres": [
+            "austin americana",
+            "folk-pop",
+            "new americana",
+            "roots rock",
+            "stomp and holler"
+        ],
+        "name": "Jamestown Revival",
+        "url": "https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it",
+        "followers": 94342,
+        "popularity": 51,
+        "image_url": "https://i.scdn.co/image/ab6761610000f17815dee19f31a4709486e8f299",
+        "distance": 0.004893485057
+    },
+    {
+        "id": "3pqmhj6H08f5rGsnVroz9E",
+        "order": 36,
+        "genres": [
+            "deep new americana",
+            "indie folk",
+            "new americana",
+            "stomp and holler"
+        ],
+        "name": "Phil Cook",
+        "url": "https://open.spotify.com/artist/3pqmhj6H08f5rGsnVroz9E",
+        "followers": 19994,
+        "popularity": 39,
+        "image_url": "https://i.scdn.co/image/ab6761610000f1789219ed26e8717c8b89b667ed",
+        "distance": 0.004971300433
+    },
+    {
+        "id": "099toTcKJoywTosZr2hHjy",
+        "order": 37,
+        "genres": [
+            "anti-folk",
+            "deep new americana",
+            "indie folk",
+            "modern folk rock",
+            "new americana",
+            "stomp and holler"
+        ],
+        "name": "Langhorne Slim",
+        "url": "https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy",
+        "followers": 153435,
+        "popularity": 53,
+        "image_url": "https://i.scdn.co/image/ab6761610000f17885e0a88b19179e449f28353a",
+        "distance": 0.005090061395
+    },
+    {
+        "id": "16oZKvXb6WkQlVAjwo2Wbg",
+        "order": 38,
+        "genres": [
+            "folk-pop",
+            "stomp and holler"
+        ],
+        "name": "The Lumineers",
+        "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg",
+        "followers": 4980442,
+        "popularity": 77,
+        "image_url": "https://i.scdn.co/image/ab6761610000f178c79f78fd72a3e5faf699a8be",
+        "distance": 0.005270643319
+    },
+    {
+        "id": "3Dd1WVQvZUgyi9XEqOIPhA",
+        "order": 39,
+        "genres": [
+            "indie folk",
+            "new americana",
+            "stomp and holler"
+        ],
+        "name": "Austin Basham",
+        "url": "https://open.spotify.com/artist/3Dd1WVQvZUgyi9XEqOIPhA",
+        "followers": 21417,
+        "popularity": 44,
+        "image_url": "https://i.scdn.co/image/ab6761610000f178be48fc9239d18a98ba4f6b61",
+        "distance": 0.005398774398
+    },
+    {
+        "id": "2XdtmipGVPmA62ptDgX8QC",
+        "order": 40,
+        "genres": [
+            "indie folk",
+            "new americana",
+            "pop folk",
+            "stomp and holler",
+            "vermont indie"
+        ],
+        "name": "Henry Jamison",
+        "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC",
+        "followers": 76114,
+        "popularity": 50,
+        "image_url": "https://i.scdn.co/image/ab6761610000f1789407882748cb5221facae356",
+        "distance": 0.005931781267
+    },
+    {
+        "id": "7foyQbi7GKriLiv1GPVEwt",
+        "order": 41,
+        "genres": [
+            "deep new americana",
+            "indie folk",
+            "new americana",
+            "south carolina indie",
+            "stomp and holler"
+        ],
+        "name": "Susto",
+        "url": "https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt",
+        "followers": 36250,
+        "popularity": 50,
+        "image_url": "https://i.scdn.co/image/ab6761610000f17808465c702d6aa44e045c9300",
+        "distance": 0.005935131001
+    },
+    {
+        "id": "3PMXHMqW4MNj8usJ0fxAlj",
+        "order": 42,
+        "genres": [
+            "stomp and flutter",
+            "stomp and holler"
+        ],
+        "name": "Hey Marseilles",
+        "url": "https://open.spotify.com/artist/3PMXHMqW4MNj8usJ0fxAlj",
+        "followers": 25484,
+        "popularity": 27,
+        "image_url": "https://i.scdn.co/image/87b5af5142918a311b94e45b5e880bdd017a6292",
+        "distance": 0.005965400406
+    },
+    {
+        "id": "62pBNClOEZJEyRXrzC2CtI",
+        "order": 43,
+        "genres": [
+            "lo star",
+            "modern folk rock",
+            "stomp and holler"
+        ],
+        "name": "The Apache Relay",
+        "url": "https://open.spotify.com/artist/62pBNClOEZJEyRXrzC2CtI",
+        "followers": 30172,
+        "popularity": 37,
+        "image_url": "https://i.scdn.co/image/30040c6cd535e27a1de676b2faa960d68a6fa881",
+        "distance": 0.005965400406
+    },
+    {
+        "id": "3bCmhyXqTr9ZNGlHNYNTFA",
+        "order": 44,
+        "genres": [
+            "acoustic pop",
+            "folk-pop",
+            "indiecoustica",
+            "neo mellow",
+            "okc indie",
+            "stomp and holler"
+        ],
+        "name": "Graham Colton",
+        "url": "https://open.spotify.com/artist/3bCmhyXqTr9ZNGlHNYNTFA",
+        "followers": 29242,
+        "popularity": 37,
+        "image_url": "https://i.scdn.co/image/ab6761610000f178d523716da1e042497213bd48",
+        "distance": 0.005965400406
+    },
+    {
+        "id": "0syIRg9MPSpJIC0QCPUaHB",
+        "order": 45,
+        "genres": [
+            "acoustic pop",
+            "deep new americana",
+            "indie folk",
+            "indiecoustica",
+            "modern indie folk",
+            "new americana",
+            "stomp and flutter",
+            "stomp and holler"
+        ],
+        "name": "Beta Radio",
+        "url": "https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB",
+        "followers": 65395,
+        "popularity": 54,
+        "image_url": "https://i.scdn.co/image/ab6761610000f1780ad4533dfeb306d21a080ba5",
+        "distance": 0.006086503265
+    },
+    {
+        "id": "6ps9u0MZquDDBReh8XuBeY",
+        "order": 46,
+        "genres": [
+            "deep new americana",
+            "indie folk",
+            "indiecoustica",
+            "new americana",
+            "pop folk"
+        ],
+        "name": "Andrea von Kampen",
+        "url": "https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY",
+        "followers": 22625,
+        "popularity": 46,
+        "image_url": "https://i.scdn.co/image/ab6761610000f1784d1aa794cfbd801ad29730f6",
+        "distance": 0.006445878218
+    },
+    {
+        "id": "3LcpRDABINyBTa4V1s9Hql",
+        "order": 47,
+        "genres": [
+            "indie folk",
+            "indiecoustica",
+            "new americana",
+            "stomp and holler"
+        ],
+        "name": "Tow'rs",
+        "url": "https://open.spotify.com/artist/3LcpRDABINyBTa4V1s9Hql",
+        "followers": 57917,
+        "popularity": 46,
+        "image_url": "https://i.scdn.co/image/ab6761610000f17896c682510b68c9fbcf03885d",
+        "distance": 0.006527267805
+    },
+    {
+        "id": "4ONwFcI8RGvYMG1vEIdS11",
+        "order": 48,
+        "genres": [
+            "deep new americana",
+            "indie folk",
+            "nashville americana",
+            "new americana",
+            "stomp and holler"
+        ],
+        "name": "Andrew Combs",
+        "url": "https://open.spotify.com/artist/4ONwFcI8RGvYMG1vEIdS11",
+        "followers": 22358,
+        "popularity": 40,
+        "image_url": "https://i.scdn.co/image/ab6761610000f178d935c6d9a73ff09df58c25b0",
+        "distance": 0.00665529233
+    },
+    {
+        "id": "1f3ubTd6eyxuy30ddDJQQa",
+        "order": 49,
+        "genres": [
+            "boston folk",
+            "deep new americana",
+            "folk",
+            "indie folk",
+            "new americana",
+            "progressive bluegrass",
+            "stomp and holler"
+        ],
+        "name": "Aoife O'Donovan",
+        "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa",
+        "followers": 51177,
+        "popularity": 54,
+        "image_url": "https://i.scdn.co/image/ab6761610000f178187dcf0ba4a6bbc520de178e",
+        "distance": 0.006678110511
+    },
+    {
+        "id": "4LEiUm1SRbFMgfqnQTwUbQ",
+        "order": 50,
+        "genres": [
+            "eau claire indie",
+            "indie folk",
+            "melancholia"
+        ],
+        "name": "Bon Iver",
+        "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ",
+        "followers": 3332179,
+        "popularity": 75,
+        "image_url": "https://i.scdn.co/image/ab6761610000f17867be065df01f37a3880216be",
+        "distance": 0.006962335312
+    },
+    {
+        "id": "5U6leWxYKsuTkd4kXcF1a6",
+        "order": 51,
+        "genres": [
+            "grand rapids indie",
+            "indie pop",
+            "michigan indie"
+        ],
+        "name": "The Crane Wives",
+        "url": "https://open.spotify.com/artist/5U6leWxYKsuTkd4kXcF1a6",
+        "followers": 96323,
+        "popularity": 57,
+        "image_url": "https://i.scdn.co/image/ab6761610000f178a8ea228111ac4280094ed2c8",
+        "distance": 0.006987168382
+    },
+    {
+        "id": "3cWRLr14V7jBctYNGaSM0S",
+        "order": 52,
+        "genres": [],
+        "name": "The Amazing Devil",
+        "url": "https://open.spotify.com/artist/3cWRLr14V7jBctYNGaSM0S",
+        "followers": 96024,
+        "popularity": 53,
+        "image_url": "https://i.scdn.co/image/ab6761610000f178f4ad6f4159bb0ab3d4a61556",
+        "distance": 0.006987168382
+    },
+    {
+        "id": "44CB1c0W2h1XR2vB7AKpa7",
+        "order": 53,
+        "genres": [
+            "bay area indie",
+            "chamber pop"
+        ],
+        "name": "The Family Crest",
+        "url": "https://open.spotify.com/artist/44CB1c0W2h1XR2vB7AKpa7",
+        "followers": 29834,
+        "popularity": 41,
+        "image_url": "https://i.scdn.co/image/ab6761610000f17891ea9dcbad332061febd0f63",
+        "distance": 0.006987168382
+    },
+    {
+        "id": "3AFsnAC0H9hes71BeRypbq",
+        "order": 54,
+        "genres": [],
+        "name": "Fish in a Birdcage",
+        "url": "https://open.spotify.com/artist/3AFsnAC0H9hes71BeRypbq",
+        "followers": 47099,
+        "popularity": 55,
+        "image_url": "https://i.scdn.co/image/ab6761610000f178347c9b31e3e0b84e9dbb196f",
+        "distance": 0.006987168382
+    },
+    {
+        "id": "3D1IyJznpDnWnnFrzjuWnh",
+        "order": 55,
+        "genres": [
+            "acoustic pop",
+            "folk-pop",
+            "indie folk",
+            "indiecoustica",
+            "new americana",
+            "stomp and holler"
+        ],
+        "name": "Ivan & Alyosha",
+        "url": "https://open.spotify.com/artist/3D1IyJznpDnWnnFrzjuWnh",
+        "followers": 35272,
+        "popularity": 46,
+        "image_url": "https://i.scdn.co/image/ab6761610000f178b6a228295ea1913073afbc48",
+        "distance": 0.007165728714
+    },
+    {
+        "id": "426VSUSxx9puUYFgp7l7EQ",
+        "order": 56,
+        "genres": [
+            "indie pop"
+        ],
+        "name": "Liza Anne",
+        "url": "https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ",
+        "followers": 64860,
+        "popularity": 48,
+        "image_url": "https://i.scdn.co/image/ab6761610000f17806af1d9b6a29fd5b8922bc3d",
+        "distance": 0.007181448461
+    },
+    {
+        "id": "79hrYiudVcFyyxyJW0ipTy",
+        "order": 57,
+        "genres": [
+            "australian indie folk",
+            "indie folk",
+            "stomp and holler"
+        ],
+        "name": "The Paper Kites",
+        "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy",
+        "followers": 619659,
+        "popularity": 68,
+        "image_url": "https://i.scdn.co/image/ab6761610000f178120b4addbaf43084de673df3",
+        "distance": 0.007312294989
+    },
+    {
+        "id": "6GwNGuDRNbx5XwoHQA3QiD",
+        "order": 58,
+        "genres": [
+            "folk-pop",
+            "stomp and holler"
+        ],
+        "name": "Twin Forks",
+        "url": "https://open.spotify.com/artist/6GwNGuDRNbx5XwoHQA3QiD",
+        "followers": 40963,
+        "popularity": 37,
+        "image_url": "https://i.scdn.co/image/46db2e265a9e988a1faafb4e0962e82ad8cfe17b",
+        "distance": 0.007344964057
+    },
+    {
+        "id": "1slZr3FGlh153jH8xW6SNa",
+        "order": 59,
+        "genres": [
+            "australian indie folk",
+            "indie anthem-folk",
+            "indie folk",
+            "stomp and holler"
+        ],
+        "name": "Woodlock",
+        "url": "https://open.spotify.com/artist/1slZr3FGlh153jH8xW6SNa",
+        "followers": 39223,
+        "popularity": 54,
+        "image_url": "https://i.scdn.co/image/ab6761610000f178ce406ed40621ed93079178c5",
+        "distance": 0.007559560106
+    },
+    {
+        "id": "5Lm1CMoa8VOCBCLZesAcvc",
+        "order": 60,
+        "genres": [
+            "hopebeat",
+            "indie pop"
+        ],
+        "name": "Autoheart",
+        "url": "https://open.spotify.com/artist/5Lm1CMoa8VOCBCLZesAcvc",
+        "followers": 81206,
+        "popularity": 54,
+        "image_url": "https://i.scdn.co/image/ab6761610000f178da752d666e3e96679365400a",
+        "distance": 0.007649358797
+    },
+    {
+        "id": "2sNHl4oXsU0DVTy9u1otGt",
+        "order": 61,
+        "genres": [
+            "folk-pop",
+            "indie folk",
+            "indiecoustica",
+            "new americana",
+            "stomp and holler"
+        ],
+        "name": "Birdtalker",
+        "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt",
+        "followers": 88556,
+        "popularity": 50,
+        "image_url": "https://i.scdn.co/image/ab6761610000f1783dfbd6cead565109768f9d37",
+        "distance": 0.007871007115
+    },
+    {
+        "id": "5q6z6GTth6lMbL9I8CAgby",
+        "order": 62,
+        "genres": [
+            "modern blues",
+            "new americana"
+        ],
+        "name": "Anderson East",
+        "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby",
+        "followers": 132664,
+        "popularity": 50,
+        "image_url": "https://i.scdn.co/image/ab6761610000f17803ca2ede0a6a13c898e7897a",
+        "distance": 0.00789697746
+    },
+    {
+        "id": "3Fe3pszR2t4TOBVz41B1WR",
+        "order": 63,
+        "genres": [
+            "folk-pop",
+            "indie pop",
+            "san marcos tx indie",
+            "shimmer pop",
+            "stomp and holler"
+        ],
+        "name": "The Oh Hellos",
+        "url": "https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR",
+        "followers": 368211,
+        "popularity": 63,
+        "image_url": "https://i.scdn.co/image/ab6761610000f178f95c1ca17763a05799b0f9dd",
+        "distance": 0.007985142453
+    },
+    {
+        "id": "7kZBQcHbD4IKKEJIMnrRWC",
+        "order": 64,
+        "genres": [
+            "boston folk",
+            "deep new americana",
+            "folk-pop",
+            "indie folk",
+            "indiecoustica",
+            "new americana",
+            "new england americana",
+            "stomp and holler"
+        ],
+        "name": "The Ballroom Thieves",
+        "url": "https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC",
+        "followers": 61826,
+        "popularity": 54,
+        "image_url": "https://i.scdn.co/image/ab6761610000f178d92b1466d22a46f576680186",
+        "distance": 0.008054741275
+    },
+    {
+        "id": "59sBwR0jPSTrbMtuTkRPN5",
+        "order": 65,
+        "genres": [
+            "folk-pop",
+            "indie folk",
+            "indiecoustica",
+            "neo mellow",
+            "stomp and holler"
+        ],
+        "name": "Wild Rivers",
+        "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5",
+        "followers": 160120,
+        "popularity": 65,
+        "image_url": "https://i.scdn.co/image/ab6761610000f1784ccb037d94a587ffa258e4c1",
+        "distance": 0.008183400882
+    },
+    {
+        "id": "2ic4xySjQ39N7DJ0HZemeG",
+        "order": 66,
+        "genres": [
+            "connecticut indie",
+            "indie folk",
+            "indie poptimism",
+            "indiecoustica",
+            "modern rock",
+            "neo mellow",
+            "pop rock",
+            "stomp and holler",
+            "stomp pop"
+        ],
+        "name": "Bronze Radio Return",
+        "url": "https://open.spotify.com/artist/2ic4xySjQ39N7DJ0HZemeG",
+        "followers": 71886,
+        "popularity": 52,
+        "image_url": "https://i.scdn.co/image/ab6761610000f1782fbacec3eadecc93d40841ad",
+        "distance": 0.008195377356
+    },
+    {
+        "id": "6qiGjRyN7TJ1GA2nXF68Hi",
+        "order": 67,
+        "genres": [
+            "indie folk",
+            "new americana",
+            "portland indie",
+            "stomp and holler"
+        ],
+        "name": "Blind Pilot",
+        "url": "https://open.spotify.com/artist/6qiGjRyN7TJ1GA2nXF68Hi",
+        "followers": 250274,
+        "popularity": 48,
+        "image_url": "https://i.scdn.co/image/0a83b2d5de7f138a81802eb94a35aeabc95d7ceb",
+        "distance": 0.008221130397
+    },
+    {
+        "id": "5e1SaJPn6U7YpOrNTkW1jH",
+        "order": 68,
+        "genres": [
+            "indie folk",
+            "new americana"
+        ],
+        "name": "Lydia Luce",
+        "url": "https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH",
+        "followers": 13279,
+        "popularity": 40,
+        "image_url": "https://i.scdn.co/image/ab6761610000f17888b30c1bf7b0e4dfc465a72d",
+        "distance": 0.008725527663
+    },
+    {
+        "id": "2AmW5LU0vqfHoN2qvghRFe",
+        "order": 69,
+        "genres": [
+            "athens indie",
+            "folk-pop",
+            "stomp and holler"
+        ],
+        "name": "Family and Friends",
+        "url": "https://open.spotify.com/artist/2AmW5LU0vqfHoN2qvghRFe",
+        "followers": 23616,
+        "popularity": 37,
+        "image_url": "https://i.scdn.co/image/ab6761610000f178526b44bf16eb6ac1806e43ea",
+        "distance": 0.008958410685
+    },
+    {
+        "id": "4SOtk3HtPYKqxnVuxNBMti",
+        "order": 70,
+        "genres": [
+            "acoustic pop",
+            "canadian singer-songwriter",
+            "deep new americana",
+            "indie folk",
+            "indiecoustica",
+            "neo mellow",
+            "new americana",
+            "stomp and holler"
+        ],
+        "name": "Donovan Woods",
+        "url": "https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti",
+        "followers": 74345,
+        "popularity": 56,
+        "image_url": "https://i.scdn.co/image/ab6761610000f178c9febff1605f26b8ff1a890a",
+        "distance": 0.009019256344
+    },
+    {
+        "id": "7zsin6IgVsR1rqSRCNYDwq",
+        "order": 71,
+        "genres": [
+            "stomp and holler"
+        ],
+        "name": "Family of the Year",
+        "url": "https://open.spotify.com/artist/7zsin6IgVsR1rqSRCNYDwq",
+        "followers": 149487,
+        "popularity": 53,
+        "image_url": "https://i.scdn.co/image/ab6761610000f1781bf62548255ab0bbc297af28",
+        "distance": 0.009057702634
+    },
+    {
+        "id": "3srupAODFNn7Dx4ZUg4uqM",
+        "order": 72,
+        "genres": [
+            "north dakota indie",
+            "pop rock"
+        ],
+        "name": "Raynes",
+        "url": "https://open.spotify.com/artist/3srupAODFNn7Dx4ZUg4uqM",
+        "followers": 7848,
+        "popularity": 41,
+        "image_url": "https://i.scdn.co/image/ab6761610000f178e31213d81195804991081ead",
+        "distance": 0.009100161592
+    },
+    {
+        "id": "5jq01ts8cBQWwVZOpMax6s",
+        "order": 73,
+        "genres": [
+            "indiecoustica",
+            "new americana"
+        ],
+        "name": "Ira Wolf",
+        "url": "https://open.spotify.com/artist/5jq01ts8cBQWwVZOpMax6s",
+        "followers": 44684,
+        "popularity": 43,
+        "image_url": "https://i.scdn.co/image/ab6761610000f178fb43dd9f03a343e0c07ff5d6",
+        "distance": 0.009419932059
+    },
+    {
+        "id": "7fxtWEwKKrFaykKItspdYg",
+        "order": 74,
+        "genres": [
+            "indie folk",
+            "new americana",
+            "stomp and flutter",
+            "stomp and holler"
+        ],
+        "name": "The Milk Carton Kids",
+        "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg",
+        "followers": 171182,
+        "popularity": 51,
+        "image_url": "https://i.scdn.co/image/ab6761610000f178481ca509e41d2e68c3e34154",
+        "distance": 0.009478937968
+    },
+    {
+        "id": "3yQxGz288i3AqOxq7LYHUU",
+        "order": 75,
+        "genres": [
+            "brooklyn indie",
+            "indiecoustica",
+            "neo mellow",
+            "pop rock"
+        ],
+        "name": "Oh Honey",
+        "url": "https://open.spotify.com/artist/3yQxGz288i3AqOxq7LYHUU",
+        "followers": 44178,
+        "popularity": 45,
+        "image_url": "https://i.scdn.co/image/ab6761610000f178d9629488830d39fc056b051e",
+        "distance": 0.00950056572
+    },
+    {
+        "id": "4CHiVarfTsFhkFOk5vHS77",
+        "order": 76,
+        "genres": [
+            "acoustic pop",
+            "indie folk",
+            "indiecoustica",
+            "neo mellow",
+            "stomp and holler"
+        ],
+        "name": "Marc Scibilia",
+        "url": "https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77",
+        "followers": 23352,
+        "popularity": 47,
+        "image_url": "https://i.scdn.co/image/ab6761610000f178a1b7fdc3f6e38cb547e6457f",
+        "distance": 0.009519000473
+    },
+    {
+        "id": "46CitWgnWrvF9t70C2p1Me",
+        "order": 77,
+        "genres": [
+            "shimmer pop"
+        ],
+        "name": "Daughter",
+        "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me",
+        "followers": 1275311,
+        "popularity": 62,
+        "image_url": "https://i.scdn.co/image/4d1612d33f9b16aabe4619ecaf1da6b90548d4d6",
+        "distance": 0.009541542066
+    },
+    {
+        "id": "2cCUtGK9sDU2EoElnk0GNB",
+        "order": 78,
+        "genres": [
+            "indie rock",
+            "modern rock"
+        ],
+        "name": "The National",
+        "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB",
+        "followers": 1431401,
+        "popularity": 66,
+        "image_url": "https://i.scdn.co/image/ab6761610000f178eb6f09d5c9727e9cde277574",
+        "distance": 0.009541542066
+    },
+    {
+        "id": "7gXy60xRcwYujBFoYHnR2O",
+        "order": 79,
+        "genres": [
+            "eau claire indie",
+            "folktronica",
+            "indie folk",
+            "indie pop",
+            "indie rock"
+        ],
+        "name": "Big Red Machine",
+        "url": "https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O",
+        "followers": 137574,
+        "popularity": 57,
+        "image_url": "https://i.scdn.co/image/ab6761610000f1787ef9466b2e408a35a3b2f72f",
+        "distance": 0.009541542066
+    },
+    {
+        "id": "3vsVCHUe68gqUMIZwaVUIK",
+        "order": 80,
+        "genres": [
+            "high vibe",
+            "indie folk",
+            "new americana",
+            "nyc pop"
+        ],
+        "name": "Aisha Badru",
+        "url": "https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK",
+        "followers": 45597,
+        "popularity": 50,
+        "image_url": "https://i.scdn.co/image/ab6761610000f178e3096d1f83f4008589c12396",
+        "distance": 0.009663435052
+    },
+    {
+        "id": "0XHM5ZNJDU8e4CfbWMeSzC",
+        "order": 81,
+        "genres": [
+            "british singer-songwriter",
+            "indie folk",
+            "indiecoustica",
+            "new americana",
+            "stomp and holler"
+        ],
+        "name": "Roo Panes",
+        "url": "https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC",
+        "followers": 198507,
+        "popularity": 56,
+        "image_url": "https://i.scdn.co/image/ab6761610000f1785e50373fd384516f8090c762",
+        "distance": 0.009750402043
+    },
+    {
+        "id": "7MZvYitgCWAOaKjxdm2S17",
+        "order": 82,
+        "genres": [
+            "chamber folk",
+            "indie folk",
+            "new americana"
+        ],
+        "name": "Rosemary & Garlic",
+        "url": "https://open.spotify.com/artist/7MZvYitgCWAOaKjxdm2S17",
+        "followers": 29606,
+        "popularity": 44,
+        "image_url": "https://i.scdn.co/image/ab6761610000f178bc3084c9cea9505e38dd7ba8",
+        "distance": 0.009797622263
+    },
+    {
+        "id": "0rZp7G3gIH6WkyeXbrZnGi",
+        "order": 83,
+        "genres": [
+            "ambient folk",
+            "indie folk",
+            "pop"
+        ],
+        "name": "Novo Amor",
+        "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi",
+        "followers": 787824,
+        "popularity": 72,
+        "image_url": "https://i.scdn.co/image/ab6761610000f1786f9004573a721336b343bbd3",
+        "distance": 0.009805650004
+    },
+    {
+        "id": "244AFgFclA9c1IcjWOAqoV",
+        "order": 84,
+        "genres": [
+            "indie folk",
+            "irish singer-songwriter",
+            "new americana"
+        ],
+        "name": "Joshua Burnside",
+        "url": "https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV",
+        "followers": 21484,
+        "popularity": 47,
+        "image_url": "https://i.scdn.co/image/ab6761610000f178037ff5b612530dda8964b79b",
+        "distance": 0.009861164637
+    },
+    {
+        "id": "56GNqAFg9wJNTwcHsJhyS2",
+        "order": 85,
+        "genres": [
+            "british singer-songwriter",
+            "indie folk",
+            "liverpool indie",
+            "new americana"
+        ],
+        "name": "John Smith",
+        "url": "https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2",
+        "followers": 34998,
+        "popularity": 48,
+        "image_url": "https://i.scdn.co/image/ab6761610000f178985f78303ccc958452778110",
+        "distance": 0.009969664237
+    },
+    {
+        "id": "6vUNwmljZAcn7tNtUoxG45",
+        "order": 86,
+        "genres": [
+            "indie anthem-folk",
+            "indie folk",
+            "new americana",
+            "pop folk",
+            "stomp and holler"
+        ],
+        "name": "Old Sea Brigade",
+        "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45",
+        "followers": 81312,
+        "popularity": 62,
+        "image_url": "https://i.scdn.co/image/ab6761610000f178639835243d3488207f4b8948",
+        "distance": 0.01010220095
+    },
+    {
+        "id": "11nbBcaBk8uXBPQsc3Sq9p",
+        "order": 87,
+        "genres": [
+            "indie folk",
+            "indiecoustica",
+            "new americana",
+            "stomp and flutter"
+        ],
+        "name": "Aaron Espe",
+        "url": "https://open.spotify.com/artist/11nbBcaBk8uXBPQsc3Sq9p",
+        "followers": 13457,
+        "popularity": 52,
+        "image_url": "https://i.scdn.co/image/ab6761610000f17849a0b6570d91683fb96a5e55",
+        "distance": 0.01015353323
+    },
+    {
+        "id": "6DchmKCVOKK707FCrLFFDW",
+        "order": 88,
+        "genres": [
+            "indie anthem-folk",
+            "indie folk",
+            "indiecoustica"
+        ],
+        "name": "Ed Prosek",
+        "url": "https://open.spotify.com/artist/6DchmKCVOKK707FCrLFFDW",
+        "followers": 49989,
+        "popularity": 45,
+        "image_url": "https://i.scdn.co/image/ab6761610000f178060209269d9f4b07d96f8dd7",
+        "distance": 0.01017855392
+    },
+    {
+        "id": "7iPH2BRBF9wKa6ljxvdext",
+        "order": 89,
+        "genres": [
+            "bristol indie",
+            "british singer-songwriter",
+            "indie folk",
+            "indie pop"
+        ],
+        "name": "Fenne Lily",
+        "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext",
+        "followers": 92619,
+        "popularity": 50,
+        "image_url": "https://i.scdn.co/image/ab6761610000f1788fb16b4c6608b177320dcec7",
+        "distance": 0.01023966064
+    },
+    {
+        "id": "56NSAhpJRoeaGi5uyUdYlI",
+        "order": 90,
+        "genres": [
+            "british singer-songwriter",
+            "indie anthem-folk",
+            "indie folk"
+        ],
+        "name": "George Ogilvie",
+        "url": "https://open.spotify.com/artist/56NSAhpJRoeaGi5uyUdYlI",
+        "followers": 74064,
+        "popularity": 46,
+        "image_url": "https://i.scdn.co/image/ab6761610000f178a4a8ae28ce885b7d474f96b0",
+        "distance": 0.01041305608
+    },
+    {
+        "id": "5EM6xJN2QNk0cL7EEm9HR9",
+        "order": 91,
+        "genres": [
+            "indie folk",
+            "jacksonville indie",
+            "stomp and holler"
+        ],
+        "name": "Radical Face",
+        "url": "https://open.spotify.com/artist/5EM6xJN2QNk0cL7EEm9HR9",
+        "followers": 373525,
+        "popularity": 59,
+        "image_url": "https://i.scdn.co/image/ab6761610000f178c1deb0268116e18ddb60c670",
+        "distance": 0.01046476111
+    },
+    {
+        "id": "4bUqnkrDrb4f7rqmDR9yDu",
+        "order": 92,
+        "genres": [
+            "british singer-songwriter",
+            "indie folk",
+            "irish singer-songwriter",
+            "neo mellow",
+            "uk americana"
+        ],
+        "name": "Foy Vance",
+        "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu",
+        "followers": 206230,
+        "popularity": 53,
+        "image_url": "https://i.scdn.co/image/ab6761610000f17807a0da8f018915df3bfce3f2",
+        "distance": 0.01051635916
+    },
+    {
+        "id": "7IAFAOtc9kTYNTizhLSWM6",
+        "order": 93,
+        "genres": [
+            "indie folk"
+        ],
+        "name": "Hollow Coves",
+        "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6",
+        "followers": 489602,
+        "popularity": 66,
+        "image_url": "https://i.scdn.co/image/ab6761610000f1785a3071c1f11ee74dfe32e66e",
+        "distance": 0.01053092456
+    },
+    {
+        "id": "7zOuMHqRJ6YOMnCGpLfuTU",
+        "order": 94,
+        "genres": [
+            "british singer-songwriter",
+            "irish singer-songwriter",
+            "new americana"
+        ],
+        "name": "Ciaran Lavery",
+        "url": "https://open.spotify.com/artist/7zOuMHqRJ6YOMnCGpLfuTU",
+        "followers": 37009,
+        "popularity": 45,
+        "image_url": "https://i.scdn.co/image/ab6761610000f17888bcdebfe33b209af2c4d7fd",
+        "distance": 0.01065810377
+    },
+    {
+        "id": "5Ld19xtpAR80G2boTcHaVx",
+        "order": 95,
+        "genres": [
+            "indie anthem-folk",
+            "indie folk"
+        ],
+        "name": "Harrison Storm",
+        "url": "https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx",
+        "followers": 138145,
+        "popularity": 61,
+        "image_url": "https://i.scdn.co/image/ab6761610000f178e88da52a26cde4ca0c22f1e0",
+        "distance": 0.01068333267
+    },
+    {
+        "id": "0CdbG1eHVjqjkQsGoH2u1V",
+        "order": 96,
+        "genres": [
+            "acoustic pop",
+            "indie folk",
+            "indiecoustica",
+            "neo mellow",
+            "new americana",
+            "stomp and holler"
+        ],
+        "name": "Peter Bradley Adams",
+        "url": "https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V",
+        "followers": 94101,
+        "popularity": 49,
+        "image_url": "https://i.scdn.co/image/ab6761610000f178fbebea2fccc3adb643a7bf22",
+        "distance": 0.01072271691
+    },
+    {
+        "id": "2Oboq4Pq88TcC9eUn2HSW9",
+        "order": 97,
+        "genres": [
+            "folk-pop",
+            "hopebeat",
+            "indie poptimism",
+            "shiver pop"
+        ],
+        "name": "Air Traffic Controller",
+        "url": "https://open.spotify.com/artist/2Oboq4Pq88TcC9eUn2HSW9",
+        "followers": 34528,
+        "popularity": 45,
+        "image_url": "https://i.scdn.co/image/ab6761610000f1783c991eba01ea1835e32e0b0f",
+        "distance": 0.01077506032
+    },
+    {
+        "id": "0INDB6Snts5NDbzh8jC3lk",
+        "order": 98,
+        "genres": [
+            "indie poptimism",
+            "modern alternative rock",
+            "modern rock",
+            "pop rock",
+            "stomp and holler"
+        ],
+        "name": "Run River North",
+        "url": "https://open.spotify.com/artist/0INDB6Snts5NDbzh8jC3lk",
+        "followers": 69986,
+        "popularity": 54,
+        "image_url": "https://i.scdn.co/image/ab6761610000f1789eb01e724498b5c6d3a8138d",
+        "distance": 0.01096392712
+    },
+    {
+        "id": "239Y6QdFqVFfdsw6moqSEN",
+        "order": 99,
+        "genres": [
+            "acoustic pop",
+            "british singer-songwriter",
+            "indie anthem-folk",
+            "indie folk"
+        ],
+        "name": "Allman Brown",
+        "url": "https://open.spotify.com/artist/239Y6QdFqVFfdsw6moqSEN",
+        "followers": 52986,
+        "popularity": 48,
+        "image_url": "https://i.scdn.co/image/ab6761610000f1789d9a8961cf96a7ef7463749c",
+        "distance": 0.01101705138
+    },
+    {
+        "id": "08Uextujt6ZT2iQmSYAJfH",
+        "order": 100,
+        "genres": [
+            "canadian folk",
+            "indie folk",
+            "new americana",
+            "stomp and holler"
+        ],
+        "name": "AHI",
+        "url": "https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH",
+        "followers": 23339,
+        "popularity": 53,
+        "image_url": "https://i.scdn.co/image/ab6761610000f17837d84745a695d8ba1a3a2cba",
+        "distance": 0.01103810129
+    }
+]

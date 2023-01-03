@@ -1,13 +1,5 @@
 async function singleArtistGraph() {
 
-    // 1. Access data (Write Accessor functions)
-    // 2. Create chart dimensions
-    // 3. Draw canvas
-    // 4. Create scales
-    // 5. Draw data
-    // 6. Draw peripherals
-    // 7. Set up interactions
-
     const visID = "11430"
     const d3DivID = "data-viz-" + visID
     const titleTextID = "title-text-" + visID
@@ -21,8 +13,16 @@ async function singleArtistGraph() {
     const artistImageDivID = "artist-image-div-" + visID
     const tooltipArtistNameID = "tooltip-artist-name-" + visID
 
-    const dataset = await d3.json("./data/mumford_related_artists_1.json")
-    // const dataset = await d3.json("/data-viz/pandora-to-spotify/data/mumford_related_artists_1.json")
+    const url = window.location.href
+    let dataFile = ""
+    if (url.includes("localhost") || url.includes("127.0.0.1")) {
+        dataFile = "./data/mumford_related_artists_1.json"
+    } else {
+        dataFile = "/data-viz/pandora-to-spotify/data/mumford_related_artists_1.json"
+    }
+
+    const dataset = await d3.json(dataFile)
+
     const childAccessor = d => d.related_artists
     let root = d3.hierarchy(dataset, d => childAccessor(d))
     drawChart()
@@ -100,7 +100,6 @@ async function singleArtistGraph() {
             .style("left", `calc(50% - ${dimensions.width}px/2)`)
             .html(customHTML)
             .append("svg")
-            .attr("overflow", "visible")
             .attr("width", dimensions.width)
             .attr("height", dimensions.height)
             .attr("fill", "none")
