@@ -76,7 +76,7 @@
     These adjustments are to undo CSS upstream on the WP Site,
     but aren't necessary to make the viz work
     */
-    padding-top: 0px;
-    padding-bottom: 0px;
+    padding-top: 0px !important;
+    padding-bottom: 0px !important;
     max-width: none;
 }

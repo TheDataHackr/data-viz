@@ -25,15 +25,23 @@ async function singleArtistGraph() {
 
     const childAccessor = d => d.related_artists
     let root = d3.hierarchy(dataset, d => childAccessor(d))
+
     drawChart()
 
     let timeoutFunc
-    window.onresize = function() {
-        clearTimeout(timeoutFunc)
-        timeoutFunc = setTimeout(function() {
-            drawChart()
-        }, 200)
+    let currentWidth = window.innerWidth
+    function resizeEvent() {
+        const newWidth = window.innerWidth
+        if (newWidth !== currentWidth) {
+            currentWidth = newWidth
+            clearTimeout(timeoutFunc)
+            timeoutFunc = setTimeout(function() {
+                drawChart()
+            }, 200)
+        }
     }
+
+    window.addEventListener("resize", resizeEvent)
 
     function drawChart () {
         d3.select(`#${d3DivID}`).selectAll("svg").remove()
