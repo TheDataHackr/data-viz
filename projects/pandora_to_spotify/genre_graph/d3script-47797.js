@@ -20,6 +20,7 @@ async function genreRelationshipGraph() {
     const tooltipGenreID = "tooltip-genre-" + visID
 
     let genreChecked = ""
+    let afterFirstRun = false
 
     const url = window.location.href
     let smallDataFile = ""
@@ -34,15 +35,24 @@ async function genreRelationshipGraph() {
 
     let dataset = await d3.json(smallDataFile)
 
+    let simulation = d3.forceSimulation()
+
     drawChart()
 
     let timeoutFunc
-    window.onresize = function() {
-        clearTimeout(timeoutFunc)
-        timeoutFunc = setTimeout(function() {
-            drawChart()
-        }, 500)
+    let currentWidth = window.innerWidth
+    function resizeEvent() {
+        const newWidth = window.innerWidth
+        if (newWidth !== currentWidth) {
+            currentWidth = newWidth
+            clearTimeout(timeoutFunc)
+            timeoutFunc = setTimeout(function() {
+                drawChart()
+            }, 500)
+        }
     }
+
+    window.addEventListener("resize", resizeEvent)
 
     function drawChart () {
         d3.select(`#${d3DivID}`).selectAll("svg").remove()
@@ -216,6 +226,10 @@ async function genreRelationshipGraph() {
             radius: dimensions.boundedWidth/6
         }]
 
+        if (afterFirstRun) {
+            dataset.nodes.splice(0, 1)
+        }
+
         const radiusScaleMax = d3.scaleLinear()
             .domain([widthSmall, widthLarge])
             .range([dimensions.boundedWidth/16, dimensions.boundedWidth/20])
@@ -250,12 +264,18 @@ async function genreRelationshipGraph() {
 
         let forceCollide = d3.forceCollide(d => d.radius + 1).strength(0.0)
 
-        const simulation = d3.forceSimulation(dataset.nodes)
+        simulation.stop()
+        simulation.alpha(1)
+
+        simulation
+            .nodes(dataset.nodes)
             .force("link", d3.forceLink(dataset.links).id(d => d.id).distance(1))
             .force("collide", forceCollide)
             .force("center", d3.forceCenter(dimensions.boundedWidth/2, dimensions.boundedHeight/2))
             .velocityDecay(0.1)
             .on("tick", ticked)
+
+        simulation.restart()
 
         const nodes = chart.selectAll(".genre-nodes-" + visID)
             .data(dataset.nodes).enter()
@@ -280,6 +300,7 @@ async function genreRelationshipGraph() {
         const checkbox = d3.select(`#${genreCheckboxID}`)
 
         checkbox.on("change", swapData)
+        afterFirstRun = true
 
         const tooltip = d3.select(`#${tooltipID}`)
         const tooltipRect = tooltip.node().getBoundingClientRect()
@@ -409,10 +430,12 @@ async function genreRelationshipGraph() {
             if (event.target.checked) {
                 dataset = await d3.json(largeDataFile)
                 genreChecked = "checked"
+                afterFirstRun = false
                 drawChart()
             } else {
                 dataset = await d3.json(smallDataFile)
                 genreChecked = ""
+                afterFirstRun = false
                 drawChart()
             }
         }
