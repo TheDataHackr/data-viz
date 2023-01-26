@@ -88,11 +88,11 @@ async function genreRelationshipGraph() {
 
         let description = ""
         if (genreChecked === "checked") {
-            description = "Clustering all 5,762 genres based on how often a each genre shows up " +
+            description = "Clustering all 5,762 genres based on how often each genre shows up " +
                 "with other genres for over 300,000 randomly selected artists. Hover to see all of " +
                 "the connected genres and click to get more details."
         } else {
-            description = "Clustering the top 1,000 genres based on how often a each genre shows up " +
+            description = "Clustering the top 1,000 genres based on how often each genre shows up " +
                 "with other genres for over 300,000 randomly selected artists. Hover to see all of " +
                 "the connected genres and click to get more details."
         }
@@ -374,6 +374,7 @@ async function genreRelationshipGraph() {
             tooltipX += dimensions.boundedWidth/2
 
             tooltip.style("transform", `translate(${tooltipX}px, ${tooltipY}px)`)
+            tooltip.style("z-index", 1500)
             tooltip.style("opacity", 1)
         }
 
@@ -383,6 +384,7 @@ async function genreRelationshipGraph() {
             d3.selectAll(".genre-nodes-" + visID)
                 .style("opacity", 1.0)
             tooltip.style("opacity", 0)
+            tooltip.style("z-index", -1500)
             tooltip.style("transform", `translate(0px, -${tooltipHeight}px)`)
         }
 
@@ -414,6 +416,7 @@ async function genreRelationshipGraph() {
             tooltipX += xOffset
 
             clickedTooltip.style("transform", `translate(${tooltipX}px, ${tooltipY}px)`)
+            clickedTooltip.style("z-index", 1500)
             clickedTooltip.style("opacity", 1)
         }
 
@@ -423,6 +426,7 @@ async function genreRelationshipGraph() {
 
         function onBlur(event, datum) {
             clickedTooltip.style("transform", `translate(0px, -${clickedTooltipHeight}px)`)
+            clickedTooltip.style("z-index", -1500)
             clickedTooltip.style("opacity", 0)
         }
 
