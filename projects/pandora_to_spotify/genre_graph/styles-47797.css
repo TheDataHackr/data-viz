@@ -34,17 +34,17 @@
     These adjustments are to undo CSS upstream on the WP Site,
     but aren't necessary to make the viz work
     */
-    line-height: 13px;
+    line-height: 13px !important;
 }
 
 .tooltip-47797 {
     font-family: Roboto, sans-serif;
     opacity: 0;
+    z-index: -1500;
     position: absolute;
     width: 300px;
     height: 125px;
     background-color: transparent;
-    /*display: flex;*/
     display: table;
     flex-direction: row;
     align-items: center;
@@ -62,13 +62,14 @@
     These adjustments are to undo CSS upstream on the WP Site,
     but aren't necessary to make the viz work
     */
-    line-height: 25px;
+    line-height: 25px !important;
 
 }
 
 .clicked-tooltip-47797 {
     font-family: Roboto, sans-serif;
     opacity: 0;
+    z-index: -1500;
     position: absolute;
     width: 300px;
     height: 400px;
@@ -99,9 +100,9 @@
     These adjustments are to undo CSS upstream on the WP Site,
     but aren't necessary to make the viz work
     */
-    padding-top: 0px !important;
-    padding-bottom: 0px !important;
-    max-width: none;
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+    max-width: none !important;
 }
 
 .artist-name-47797 {
@@ -110,7 +111,7 @@
     These adjustments are to undo CSS upstream on the WP Site,
     but aren't necessary to make the viz work
     */
-    line-height: 25px;
+    line-height: 25px !important;
 }
 
 .genre-nodes-47797:focus {
